@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vive Punj Mishra</h1>
+<h1 align="center">Hi 👋, I'm Vivek Punj Mishra</h1>
 <h3 align="center">A passionate Salesforce Developer from India</h3>
 
 - 🔭 I’m currently working on **Slack**
