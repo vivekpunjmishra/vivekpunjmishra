@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vivekpunjmishra2016@gmail.com**
 
-- 📄 Know about my experiences [2 Years](2 Years)
+- 📄 Know about my experiences [2 Years]
 
 - ⚡ Fun fact **Hey Text me later😁 I will do it !!**
 
